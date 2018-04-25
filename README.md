@@ -448,3 +448,4 @@ You got this!
 * [JavaScript.info: Debugging in Chrome](https://javascript.info/debugging-chrome)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-traversing-nested-objects-readme'>Traversing Nested Objects</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Traversing Nested Objects</p>

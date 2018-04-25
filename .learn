@@ -10,3 +10,5 @@ tags:
 languages:
   - javascript
 resources: 4
+
+parent_template: git@github.com:learn-co-curriculum/js-looping-and-iteration-traversing-nested-objects-readme.git
